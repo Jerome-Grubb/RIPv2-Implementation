@@ -1,0 +1,5 @@
+[router_config]
+router-id : 3
+input-ports : 3200, 3400
+# port-metric-id
+output_ports : 2300-3-2, 4300-4-4

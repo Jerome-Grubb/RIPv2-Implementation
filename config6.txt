@@ -1,0 +1,5 @@
+[router_config]
+router-id : 6
+input-ports : 6100, 6500
+# port-metric-id
+output_ports : 1600-5-1, 5600-1-5
